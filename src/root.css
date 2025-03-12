@@ -1,0 +1,22 @@
+@import 'open-props/normalize.min.css';
+
+h1 {
+  padding: var(--size-5);
+}
+
+div {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin: var(--size-5);
+  padding: var(--size-1);
+  border: var(--border-size-1) solid var(--gray-9);
+  box-shadow: var(--shadow-2);
+  backdrop-filter: blur(var(--size-2));
+  animation: var(--animation-blink);
+
+  &:hover {
+    background: white;
+    filter: invert();
+  }
+}
