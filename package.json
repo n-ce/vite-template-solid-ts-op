@@ -8,13 +8,13 @@
      "update": "npx npm-check-updates -u"
   },
   "dependencies": {
-    "solid-js": "^1.9.5"
+    "solid-js": "^1.9.7"
   },
   "devDependencies": {
-    "open-props": "^1.7.13",
+    "open-props": "^1.7.16",
     "postcss-jit-props": "^1.0.16",
-    "typescript": "^5.8.2",
-    "vite": "^6.2.1",
-    "vite-plugin-solid": "^2.11.6"
+    "typescript": "^5.9.2",
+    "vite": "^7.0.6",
+    "vite-plugin-solid": "^2.11.8"
   }
 }
