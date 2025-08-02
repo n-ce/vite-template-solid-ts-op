@@ -4,7 +4,7 @@ import postcssJitProps from 'postcss-jit-props';
 import OpenProps from 'open-props';
 
 export default defineConfig(() => ({
-  base: '/vite-template-island/',
+  base: '/vite-template-ts-op/',
   plugins: [solidPlugin()],
   css: {
     postcss: {
