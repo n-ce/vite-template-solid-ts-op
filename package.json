@@ -1,5 +1,5 @@
 {
-  "name": "vite-template-islands",
+  "name": "vite-template-ts-op",
   "type": "module",
   "scripts": {
     "dev": "vite",
